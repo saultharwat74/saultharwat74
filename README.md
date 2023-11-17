@@ -4,7 +4,7 @@
 
 - I’m currently working as a Senior Frontend Engineer at [Koinz](https://koinz.app/#/).
 
-- I’m currently learning Rust and backend development.
+- I’m currently learning backend development.
 
 - I'm looking to collaborate with an expert team to gain experience and contribute to meaningful projects.
 
