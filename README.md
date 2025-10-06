@@ -1,5 +1,5 @@
 <h1>Hey 👋, I'm Tharwat</h1>
-<p>I'm a passionate Javascript developer based in Egypt, with over 5 years of experience in building web and mobile apps of high quality. I love exploring new technologies and solving complex problems, and I'm always looking for new opportunities and challenges to improve my skills and expand my knowledge.</p>
+<p>I'm a passionate Javascript developer based in Egypt, with over 6 years of experience in building web and mobile apps of high quality. I love exploring new technologies and solving complex problems, and I'm always looking for new opportunities and challenges to improve my skills and expand my knowledge.</p>
 
 
 - I’m currently working as a Senior Frontend Engineer at [Koinz](https://koinz.app/#/).
